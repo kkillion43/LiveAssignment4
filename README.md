@@ -9,7 +9,10 @@ ___The Purpose___
 * This project is to preprocess the Brooklyn Housing Sales Data and identify meaningful patterns within the dataset utilizing
 techniques within R and R Studio.
 
-**The Folder Structure**
+
+
+
+#### The Folder Structure
 
 **Data folder** – contains instructions on how to fetch the data. (see fetch.md). Also, this folder contains the original data sets in .XLS and .CVS format.
 
